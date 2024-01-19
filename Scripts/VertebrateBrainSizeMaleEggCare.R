@@ -1,0 +1,7 @@
+ggplot(bc1,aes(x=Male_Egg_Care,y=log(Brain_Mass_g/Body_Mass_g)))
++geom_violin(size = 1, alpha = .2,aes(fill=bc1$Male_Egg_Care,color=bc1$Male_Egg_Care))
++theme_clean()
++scale_fill_manual(values=c("lightblue1","plum"))
++labs(x="Male Egg Care",y=expression("Brain Mass/Body Mass"^"Log10"))
++labs(color="Male Egg Care")+labs(fill="Male Egg Care")
++scale_color_manual(values=c("lightblue1","plum"))
