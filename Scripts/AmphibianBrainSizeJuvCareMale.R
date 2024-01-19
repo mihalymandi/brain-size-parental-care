@@ -1,0 +1,7 @@
+ggplot(r4.2.df,aes(x=Juv_Care_Comp_M,y=log(Brain_Mass/Body_Mass)))
++geom_violin(size = 1, alpha = .2,aes(fill=r4.2.df$Juv_Care_Comp_M,color=r4.2.df$Juv_Care_Comp_M))
++theme_clean()+scale_fill_manual(values=c("lightblue1","dodgerblue","deepskyblue4"))
++labs(x="Juvenile Care in Males",y=expression("Brain Mass/Body Mass"^"Log10"))
++labs(color="Juvenile Care in Males")
++labs(fill="Juvenile Care in Males")
++scale_color_manual(values=c("lightblue1","dodgerblue","deepskyblue4"))
