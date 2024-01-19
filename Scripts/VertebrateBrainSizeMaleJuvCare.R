@@ -1,0 +1,6 @@
+ggplot(r.df,aes(x=Male_Juv_Care,y=log(Brain_Mass_g/Body_Mass_g)))
++geom_boxplot(size = 1, alpha = .2,aes(fill=r.df$Male_Juv_Care,color=r.df$Male_Juv_Care))
++theme_clean()+scale_fill_manual(values=c("lightblue1","plum"))
++labs(x="Male Juvenile Care",y=expression("Brain Mass/Body Mass"^"Log10"))
++labs(color="Male Juvenile Care")+labs(fill="Male Juvenile Care")
++scale_color_manual(values=c("lightblue1","plum"))
