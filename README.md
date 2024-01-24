@@ -207,6 +207,9 @@ pglmm_compare(log(Brain_Mass)~Nest_Building_Comp_M,
 ## [Tables folder](Tables)
 - this folder has several excel files, that were used in the original file and the supplements
 
+  ## [Stats folder](Stats)
+- this folder has several statistical results used in this study
+
 ## Database
 The original dataset for Brain Size is in a seperate data paper for VerteBrainData.
 
