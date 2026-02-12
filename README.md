@@ -1,5 +1,5 @@
 # Brain-Body Size Allometries Differ with Parental Care Across Vertebrates
-This repository contains all materials relating to The connection between Brain Size and Patenal Care and Care Complexity in Vertebrates.
+This repository contains all materials relating to Brain-Body Size Allometries Differ with Parental Care Across Vertebrates.
 The publication is based on two seperate comprehensive databases, one inculding the brain size data for nearly 6500 vertebrate species (at the time of this publication).
 
 ## About
