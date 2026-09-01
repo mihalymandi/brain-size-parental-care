@@ -1,5 +1,5 @@
 # Feeding the shark: Offspring provisioning and endothermy shift brain-body size allometries and parental care patterns across vertebrates
-This repository contains all materials relating to Brain-Body Size Allometries Differ with Parental Care Across Vertebrates.
+This repository contains all materials relating to Feeding the shark: Offspring provisioning and endothermy shift brain-body size allometries and parental care patterns across vertebrates.
 The publication is based on two seperate comprehensive databases, one inculding the brain size data for nearly 6500 vertebrate species (at the time of this publication).
 
 ## About
